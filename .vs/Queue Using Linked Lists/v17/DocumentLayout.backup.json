@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\source\\repos\\Queue Using Linked Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F9A9E-C5CA-4F4B-943D-AA334D193412}|Queue Using Linked Lists\\Queue Using Linked Lists.vcxproj|C:\\Users\\mohamed\\source\\repos\\Queue Using Linked Lists\\Queue Using Linked Lists\\Queue Using Linked Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC7F9A9E-C5CA-4F4B-943D-AA334D193412}|Queue Using Linked Lists\\Queue Using Linked Lists.vcxproj|solutionrelative:Queue Using Linked Lists\\Queue Using Linked Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue Using Linked Lists.cpp",
+              "DocumentMoniker": "C:\\Users\\mohamed\\source\\repos\\Queue Using Linked Lists\\Queue Using Linked Lists\\Queue Using Linked Lists.cpp",
+              "RelativeDocumentMoniker": "Queue Using Linked Lists\\Queue Using Linked Lists.cpp",
+              "ToolTip": "C:\\Users\\mohamed\\source\\repos\\Queue Using Linked Lists\\Queue Using Linked Lists\\Queue Using Linked Lists.cpp*",
+              "RelativeToolTip": "Queue Using Linked Lists\\Queue Using Linked Lists.cpp*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T12:47:47.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
